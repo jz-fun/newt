@@ -7,6 +7,7 @@ dependencies:
   - glib=2.86.0
   - pip=25.2
   - python=3.10
+  - swig=4.3.1
   - pip:
     - dm-control==1.0.34
     - glfw==2.10.0
@@ -29,7 +30,6 @@ dependencies:
     - numpy==1.24.4
     - robodesk==1.0.0
     - ogbench==1.1.5
-    - swig==4.3.1
     - tensordict==0.10.0
     - torch==2.8.0
     - torchvision==0.23.0
